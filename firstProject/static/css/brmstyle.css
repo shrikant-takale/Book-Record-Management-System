@@ -1,0 +1,65 @@
+body{
+  background-color:white;
+  margin: 0px 0px 0px 0px;
+  font-family: "calibri"
+}
+#header{
+  background-color:#329A88;
+  padding-bottom:20px;
+  text-align:center;
+}
+#header h1{
+  text-align:center;
+  color:#F4FA3C;
+  letter-spacing: 7px;
+  text-decoration:underline;
+}
+#nav{
+  width: auto;
+    margin:auto;
+  }
+  #nav a{
+    background-color: #F4FA3C;
+    width: :auto;
+    border:solid 2px #329A55;
+    font-size: 20px;
+    text-decoration: none;
+    color: #329A95;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+#main{
+  margin: auto;
+  border:solid 1px lightgray;
+  width :auto;
+  padding-left: 5%;
+  margin-top: 10px;
+}
+#main h2,#main form{
+  text-align: center;
+}
+#main table{
+  width: 100%;
+  text-align: center;
+  color:#329A55;
+}
+#main table th{
+  background-color:#329A88;
+  color:white;
+}
+#Hello{
+  text-align:right;
+  margin-right: 50px;
+  font-size: 20px;
+  color:white;
+}
+.btn{
+  background-color: #F4FA3C;
+  width: auto;
+  border: solid 2px #329A55;
+  font-size: 18px;
+  text-decoration: none;
+  color:#329A55;
+  padding-left: 10px;
+  padding-right: 10px;
+}

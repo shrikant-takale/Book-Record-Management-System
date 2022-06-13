@@ -1,0 +1,33 @@
+body{
+  background-image:url('../images/ajit.jpg');
+  margin: 0 0 60px 40px;
+}
+.hedding{
+  color: white;
+  background-color: navy;
+  width: 100%;
+  height: 20%;
+  }
+.hedding h1{
+  padding: 20px;
+}
+.questionblock{
+  background-color: white;
+  border-style: solid;
+  border-color:navy;
+  width:80%;
+padding:30px;
+}
+.que{
+  font-size: 20px;
+  color:navy;
+  font-weight: bold;
+  }
+  .options{
+    color: blue;
+    margin-bottom: auto;
+  }
+  .submit input{
+    width: 200px;
+    margin: 10px;
+  }
